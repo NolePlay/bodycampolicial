@@ -27,9 +27,8 @@ body {
 
 html {
     scroll-behavior: smooth;
-    scrollbar-width: 10px;
-    scrollbar-shadow-color: #333;
-    scrollbar-color: grey;
+    scrollbar-width: thin;
+    scrollbar-color: teal;
 }
 
 #header {
