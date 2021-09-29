@@ -109,7 +109,7 @@ html {
     box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.486);
 }
 
-/* #section-2 {
+#section-2 {
     width: 100%;
     float: left;
     padding-top: 2%;
@@ -120,7 +120,7 @@ html {
 #section-2 iframe {
     width: 100%;
     box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.486);
-} */
+}
 
 #section-5 {
     float: left;
